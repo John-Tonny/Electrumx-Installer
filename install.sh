@@ -11,7 +11,7 @@ UPDATE_PYTHON=0
 VERBOSE=0
 USE_ROCKSDB=1
 ELECTRUMX_GIT_URL="https://github.com/John-Tonny/electrumx"
-ELECTRUMX_GIT_BRANCH=""
+ELECTRUMX_GIT_BRANCH="v1.8.12c"
 
 installer=$(realpath $0)
 
