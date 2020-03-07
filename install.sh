@@ -5,12 +5,12 @@ YELLOW='\033[1;33m'
 BLUE='\033[0,34m'
 NC='\033[0m' # No Color
 
-DB_DIR="/db"
+DB_DIR="~/db"
 UPDATE_ONLY=0
 UPDATE_PYTHON=0
 VERBOSE=0
 USE_ROCKSDB=1
-ELECTRUMX_GIT_URL="https://github.com/John-Tonny/electrumx"
+ELECTRUMX_GIT_URL="https://github.com/John-Tonny/electrumx-vds"
 ELECTRUMX_GIT_BRANCH=""
 
 installer=$(realpath $0)
